@@ -1,0 +1,32 @@
+body {font-family: 'Arvo', serif;
+	font-weight: 600;
+	color:#30D0f5;#fff}
+body{background-color:#0D0E25}
+
+
+
+
+img {width:140px }
+
+
+.nav-link {color:#30D0f5!important;font-size:30px!important}
+
+#upperfooter i{font-size:300px;color:red}
+
+
+#footer {background-color:#0D0E25;color:#30D0f5}
+#footer {font-size:30px;#fff}
+
+#lowerfooter {background-color:#2A2576;color:#2A2576}
+#lowerfooter i{font-size:55px;color:#0D0E25;margin:20px 20px 20px 10px}
+
+.Memberprevillages i{font-size:200px;color:#fff}
+.Memberprevillages p{font-size:24px;color:#fff;margin-top:12px}
+.mBBox {background-color:green; padding:15px;border-radius:15px}
+
+
+
+.pBox{border:#black 1px solid;border-radius:8px}
+.pBox{z-index:-1}
+.pBox button {z-index:2;position:absolute;right:25%}
+.pBox button:hover {background-color:blue;border:2px black solid;color:white} 
